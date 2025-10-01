@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|c:\\users\\simog\\desktop\\universita\\mobile\\simone-giordano\\assets\\script\\mobileinputs\\mobileinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mobileinputs\\mobileinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\assets\\script\\powerup\\powerupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\powerup\\powerupscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\assets\\script\\player\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\assets\\script\\levelmanager\\levelmanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelmanager\\levelmanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\assets\\script\\bullet\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\assets\\script\\ball\\ballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ball\\ballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\assets\\script\\audio\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audio\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\assets\\script\\levelmanager\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9732A40A-2084-5B31-903F-DACB64B6D055}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelmanager\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\Audio\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Audio\\MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\Audio\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Audio\\MusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:20:01.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\LevelManager\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelManager\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\LevelManager\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelManager\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:06:16.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MobileInputs.cs",
+              "DocumentMoniker": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\MobileInputs\\MobileInputs.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MobileInputs\\MobileInputs.cs",
+              "ToolTip": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\MobileInputs\\MobileInputs.cs",
+              "RelativeToolTip": "Assets\\Script\\MobileInputs\\MobileInputs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T12:32:50.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelManagerScript.cs",
+              "DocumentMoniker": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\LevelManager\\LevelManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelManager\\LevelManagerScript.cs",
+              "ToolTip": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\LevelManager\\LevelManagerScript.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelManager\\LevelManagerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:43:17.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PowerUpScript.cs",
+              "DocumentMoniker": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\PowerUp\\PowerUpScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PowerUp\\PowerUpScript.cs",
+              "ToolTip": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\PowerUp\\PowerUpScript.cs",
+              "RelativeToolTip": "Assets\\Script\\PowerUp\\PowerUpScript.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:15:56.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletScript.cs",
+              "DocumentMoniker": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\Bullet\\BulletScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet\\BulletScript.cs",
+              "ToolTip": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\Bullet\\BulletScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet\\BulletScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:00:44.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\Player\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerScript.cs",
+              "ToolTip": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\Player\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerScript.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:32:36.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BallScript.cs",
+              "DocumentMoniker": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\Ball\\BallScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Ball\\BallScript.cs",
+              "ToolTip": "C:\\Users\\simog\\Desktop\\Universita\\Mobile\\simone-giordano\\Assets\\Script\\Ball\\BallScript.cs",
+              "RelativeToolTip": "Assets\\Script\\Ball\\BallScript.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAADwvx0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:09:52.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
