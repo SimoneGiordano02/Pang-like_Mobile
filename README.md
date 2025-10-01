@@ -59,3 +59,5 @@ Il giocatore affronta una serie di livelli con difficoltà crescente, utilizzand
 
 ---
 
+## Video dimostrativo
+- [![Pang-like Demo](https://img.youtube.com/vi/FI8bS_BmWqg/0.jpg)](https://youtu.be/FI8bS_BmWqg)
