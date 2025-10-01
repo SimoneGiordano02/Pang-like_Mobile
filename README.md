@@ -27,7 +27,7 @@ Il giocatore affronta una serie di livelli con difficoltà crescente, utilizzand
 
 ## Struttura del progetto
 - Scena di avvio: **MainMenu.unity**  
-- Livelli di gioco: **Level1**, **Level2**, **Level3**  
+- Livelli di gioco: **Level1**, **Level2**, **Level5**  
 - Power-up gestiti come oggetti collezionabili.  
 
 ---
